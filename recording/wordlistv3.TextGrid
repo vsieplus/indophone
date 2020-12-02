@@ -1,0 +1,412 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 254.9551020408163 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 254.9551020408163 
+        intervals: size = 73 
+        intervals [1]:
+            xmin = 0 
+            xmax = 26.492605426583346 
+            text = " " 
+        intervals [2]:
+            xmin = 26.492605426583346 
+            xmax = 29.044023122696096 
+            text = "1. most" 
+        intervals [3]:
+            xmin = 29.044023122696096 
+            xmax = 32.753158123651325 
+            text = "" 
+        intervals [4]:
+            xmin = 32.753158123651325 
+            xmax = 35.311067976751644 
+            text = "2. (name of island)" 
+        intervals [5]:
+            xmin = 35.311067976751644 
+            xmax = 38.63712575620993 
+            text = "" 
+        intervals [6]:
+            xmin = 38.63712575620993 
+            xmax = 41.305402278098846 
+            text = "3. ashamed" 
+        intervals [7]:
+            xmin = 41.305402278098846 
+            xmax = 44.661983433910564 
+            text = "" 
+        intervals [8]:
+            xmin = 44.661983433910564 
+            xmax = 47.28481485688652 
+            text = "4. guardian" 
+        intervals [9]:
+            xmin = 47.28481485688652 
+            xmax = 50.39525212900349 
+            text = "" 
+        intervals [10]:
+            xmin = 50.39525212900349 
+            xmax = 52.69022962410745 
+            text = "5. fact" 
+        intervals [11]:
+            xmin = 52.69022962410745 
+            xmax = 56.19619567562577 
+            text = "" 
+        intervals [12]:
+            xmin = 56.19619567562577 
+            xmax = 58.09190551599453 
+            text = "6. substance" 
+        intervals [13]:
+            xmin = 58.09190551599453 
+            xmax = 62.068770092323405 
+            text = "" 
+        intervals [14]:
+            xmin = 62.068770092323405 
+            xmax = 64.3215485670082 
+            text = "7. belt, sash" 
+        intervals [15]:
+            xmin = 64.3215485670082 
+            xmax = 71.30898837174503 
+            text = "" 
+        intervals [16]:
+            xmin = 71.30898837174503 
+            xmax = 73.77600802701944 
+            text = "8. 8th month of islamic calendar" 
+        intervals [17]:
+            xmin = 73.77600802701944 
+            xmax = 77.68960326418868 
+            text = "" 
+        intervals [18]:
+            xmin = 77.68960326418868 
+            xmax = 80.12416213452528 
+            text = "9. Wednesday" 
+        intervals [19]:
+            xmin = 80.12416213452528 
+            xmax = 84.04725851005145 
+            text = "" 
+        intervals [20]:
+            xmin = 84.04725851005145 
+            xmax = 86.80642522976626 
+            text = "10. squash, gourd" 
+        intervals [21]:
+            xmin = 86.80642522976626 
+            xmax = 90.24968957390111 
+            text = "" 
+        intervals [22]:
+            xmin = 90.24968957390111 
+            xmax = 92.58037393243669 
+            text = "11. find" 
+        intervals [23]:
+            xmin = 92.58037393243669 
+            xmax = 95.68310531968567 
+            text = "" 
+        intervals [24]:
+            xmin = 95.68310531968567 
+            xmax = 97.9813288932834 
+            text = "12. finger" 
+        intervals [25]:
+            xmin = 97.9813288932834 
+            xmax = 101.27941257584777 
+            text = "" 
+        intervals [26]:
+            xmin = 101.27941257584777 
+            xmax = 103.62957340534604 
+            text = "13. dance" 
+        intervals [27]:
+            xmin = 103.62957340534604 
+            xmax = 106.42649503885283 
+            text = "" 
+        intervals [28]:
+            xmin = 106.42649503885283 
+            xmax = 108.9584362640029 
+            text = "14. from" 
+        intervals [29]:
+            xmin = 108.9584362640029 
+            xmax = 112.26957232090164 
+            text = "" 
+        intervals [30]:
+            xmin = 112.26957232090164 
+            xmax = 115.0936606104921 
+            text = "15. narrative" 
+        intervals [31]:
+            xmin = 115.0936606104921 
+            xmax = 118.2895673430518 
+            text = "" 
+        intervals [32]:
+            xmin = 118.2895673430518 
+            xmax = 121.30270752496324 
+            text = "16. almost" 
+        intervals [33]:
+            xmin = 121.30270752496324 
+            xmax = 124.85270906683319 
+            text = "" 
+        intervals [34]:
+            xmin = 124.85270906683319 
+            xmax = 127.0989953845304 
+            text = "17. sleepy" 
+        intervals [35]:
+            xmin = 127.0989953845304 
+            xmax = 131.94809427215523 
+            text = "" 
+        intervals [36]:
+            xmin = 131.94809427215523 
+            xmax = 134.0775217640763 
+            text = "18. that, which" 
+        intervals [37]:
+            xmin = 134.0775217640763 
+            xmax = 137.78988286391 
+            text = "" 
+        intervals [38]:
+            xmin = 137.78988286391 
+            xmax = 140.2569025191844 
+            text = "19. bag" 
+        intervals [39]:
+            xmin = 140.2569025191844 
+            xmax = 143.06455552457624 
+            text = "" 
+        intervals [40]:
+            xmin = 143.06455552457624 
+            xmax = 145.8165874394638 
+            text = "20. hanging" 
+        intervals [41]:
+            xmin = 145.8165874394638 
+            xmax = 149.2835125347852 
+            text = "" 
+        intervals [42]:
+            xmin = 149.2835125347852 
+            xmax = 151.74404003307203 
+            text = "21. sorry" 
+        intervals [43]:
+            xmin = 151.74404003307203 
+            xmax = 155.1253690594217 
+            text = "" 
+        intervals [44]:
+            xmin = 155.1253690594217 
+            xmax = 157.6248494996339 
+            text = "22. thigh" 
+        intervals [45]:
+            xmin = 157.6248494996339 
+            xmax = 161.50887966927263 
+            text = "" 
+        intervals [46]:
+            xmin = 161.50887966927263 
+            xmax = 163.9109777546714 
+            text = "23. blue" 
+        intervals [47]:
+            xmin = 163.9109777546714 
+            xmax = 167.29707877441086 
+            text = "" 
+        intervals [48]:
+            xmin = 167.29707877441086 
+            xmax = 169.84849647052357 
+            text = "24. new" 
+        intervals [49]:
+            xmin = 169.84849647052357 
+            xmax = 173.62514609598662 
+            text = "" 
+        intervals [50]:
+            xmin = 173.62514609598662 
+            xmax = 175.78054221585793 
+            text = "25. bad, poor" 
+        intervals [51]:
+            xmin = 175.78054221585793 
+            xmax = 181.28188838540999 
+            text = "" 
+        intervals [52]:
+            xmin = 181.28188838540999 
+            xmax = 184.00859432018694 
+            text = "26. Name of a temple in central Java" 
+        intervals [53]:
+            xmin = 184.00859432018694 
+            xmax = 187.97475985750302 
+            text = "" 
+        intervals [54]:
+            xmin = 187.97475985750302 
+            xmax = 190.49371676867793 
+            text = "27. free" 
+        intervals [55]:
+            xmin = 190.49371676867793 
+            xmax = 194.549597077488 
+            text = "" 
+        intervals [56]:
+            xmin = 194.549597077488 
+            xmax = 197.10750693058827 
+            text = "28. how many" 
+        intervals [57]:
+            xmin = 197.10750693058827 
+            xmax = 200.70131164284945 
+            text = "" 
+        intervals [58]:
+            xmin = 200.70131164284945 
+            xmax = 203.33063522281296 
+            text = "29. not important" 
+        intervals [59]:
+            xmin = 203.33063522281296 
+            xmax = 206.9290558160792 
+            text = "" 
+        intervals [60]:
+            xmin = 206.9290558160792 
+            xmax = 209.27272448858986 
+            text = "30. by" 
+        intervals [61]:
+            xmin = 209.27272448858986 
+            xmax = 213.19704149405086 
+            text = "" 
+        intervals [62]:
+            xmin = 213.19704149405086 
+            xmax = 215.48877291066103 
+            text = "31. store" 
+        intervals [63]:
+            xmin = 215.48877291066103 
+            xmax = 219.95490259637884 
+            text = "" 
+        intervals [64]:
+            xmin = 219.95490259637884 
+            xmax = 222.37647715274028 
+            text = "32. figure, character" 
+        intervals [65]:
+            xmin = 222.37647715274028 
+            xmax = 226.18852835667366 
+            text = "" 
+        intervals [66]:
+            xmin = 226.18852835667366 
+            xmax = 228.68151663989832 
+            text = "33. door" 
+        intervals [67]:
+            xmin = 228.68151663989832 
+            xmax = 232.03746487894128 
+            text = "" 
+        intervals [68]:
+            xmin = 232.03746487894128 
+            xmax = 234.04354138809862 
+            text = "34. stomach" 
+        intervals [69]:
+            xmin = 234.04354138809862 
+            xmax = 238.0309726383619 
+            text = "" 
+        intervals [70]:
+            xmin = 238.0309726383619 
+            xmax = 240.72521778820104 
+            text = "35. before" 
+        intervals [71]:
+            xmin = 240.72521778820104 
+            xmax = 245.10807838282722 
+            text = "" 
+        intervals [72]:
+            xmin = 245.10807838282722 
+            xmax = 248.12693138204457 
+            text = "Sentence: Please wrap the blue book" 
+        intervals [73]:
+            xmin = 248.12693138204457 
+            xmax = 254.9551020408163 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "comments" 
+        xmin = 0 
+        xmax = 254.9551020408163 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 56.19624087922855 
+            text = "" 
+        intervals [2]:
+            xmin = 56.19624087922855 
+            xmax = 58.104935033572424 
+            text = "/a/ is a bit higher (check formants)" 
+        intervals [3]:
+            xmin = 58.104935033572424 
+            xmax = 62.0516387605651 
+            text = "" 
+        intervals [4]:
+            xmin = 62.0516387605651 
+            xmax = 64.33148333234644 
+            text = "stress is on ultimate syllable following /a/. Also note the allophonic change /u/ -> upsilon" 
+        intervals [5]:
+            xmin = 64.33148333234644 
+            xmax = 77.67370075848235 
+            text = "" 
+        intervals [6]:
+            xmin = 77.67370075848235 
+            xmax = 80.12773609978162 
+            text = "stress on ultimate syllable, despite  not having schwa in penultimate syllable" 
+        intervals [7]:
+            xmin = 80.12773609978162 
+            xmax = 101.28037206590534 
+            text = "" 
+        intervals [8]:
+            xmin = 101.28037206590534 
+            xmax = 103.6273495911337 
+            text = "longer trill /r/ in the first" 
+        intervals [9]:
+            xmin = 103.6273495911337 
+            xmax = 143.2431990648071 
+            text = "" 
+        intervals [10]:
+            xmin = 143.2431990648071 
+            xmax = 145.83519932875288 
+            text = "/u/ to /o/?" 
+        intervals [11]:
+            xmin = 145.83519932875288 
+            xmax = 149.2835125347852 
+            text = "" 
+        intervals [12]:
+            xmin = 149.2835125347852 
+            xmax = 151.74404003307203 
+            text = "" 
+        intervals [13]:
+            xmin = 151.74404003307203 
+            xmax = 173.62514609598662 
+            text = "" 
+        intervals [14]:
+            xmin = 173.62514609598662 
+            xmax = 175.7870343728455 
+            text = "stress here is on the ultimate syllable, following /u/ this time" 
+        intervals [15]:
+            xmin = 175.7870343728455 
+            xmax = 181.27539622842244 
+            text = "" 
+        intervals [16]:
+            xmin = 181.27539622842244 
+            xmax = 184.01508647717452 
+            text = "clearly trill /r/ at the end" 
+        intervals [17]:
+            xmin = 184.01508647717452 
+            xmax = 219.93542612541614 
+            text = "" 
+        intervals [18]:
+            xmin = 219.93542612541614 
+            xmax = 222.3699849957527 
+            text = "yet another instance of stress in the ultimate syllable not following schwa" 
+        intervals [19]:
+            xmin = 222.3699849957527 
+            xmax = 226.22098914161148 
+            text = "" 
+        intervals [20]:
+            xmin = 226.22098914161148 
+            xmax = 228.6880087968859 
+            text = "" 
+        intervals [21]:
+            xmin = 228.6880087968859 
+            xmax = 232.0107293066964 
+            text = "" 
+        intervals [22]:
+            xmin = 232.0107293066964 
+            xmax = 234.05712574149794 
+            text = "/u/ -> /o/ pattern again" 
+        intervals [23]:
+            xmin = 234.05712574149794 
+            xmax = 238.07044690489514 
+            text = "" 
+        intervals [24]:
+            xmin = 238.07044690489514 
+            xmax = 240.7327490627923 
+            text = "/u/ -> /o/ pattern # 3" 
+        intervals [25]:
+            xmin = 240.7327490627923 
+            xmax = 254.9551020408163 
+            text = "" 
